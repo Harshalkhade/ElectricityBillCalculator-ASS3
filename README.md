@@ -6,7 +6,7 @@ A full-stack Java web application designed to compute electricity bills based on
 
 ## Author
 
-- **Author:** Varad Khedkar
+- **Author:** Khade Harshal
 - **Course:** SEM V — Web Technology
 
 ---
